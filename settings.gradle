@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':appLibs:lib_common', ':appLibs:lib_network', ':appLibs:lib_utils'
